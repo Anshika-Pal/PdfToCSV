@@ -1,0 +1,201 @@
+Time,Type,Username,Domain,Workstation
+November 15 2023 11:59:48 PM,SSH Login Success,root,,localhost
+November 15 2023 11:59:48 PM,SSH Login Success,root,,ip-10-100-3-136
+November 15 2023 11:59:48 PM,SSH Logout,root,,
+November 15 2023 11:59:48 PM,SSH Login Success,root,,emerge- managementserver
+November 15 2023 11:59:48 PM,SSH Logout,root,,
+November 15 2023 11:59:48 PM,SSH Login Success,ubuntu,,ip-10-100-3-136
+November 15 2023 11:59:48 PM,SSH Login Success,root,,ip-10-100-3-136
+November 15 2023 11:59:48 PM,SSH Login Success,root,,localhost
+November 15 2023 11:59:48 PM,SSH Logout,root,,
+November 15 2023 11:59:48 PM,SSH Login Success,root,,ip-10-100-1-191
+November 15 2023 11:59:48 PM,SSH Logout,root,,
+November 15 2023 11:59:48 PM,SSH Login Success,ubuntu,,ip-10-101-3-237
+November 15 2023 11:59:48 PM,SSH Login Success,root,,ip-10-101-3-237
+November 15 2023 11:59:48 PM,SSH Logout,root,,
+November 15 2023 11:59:48 PM,SSH Logout,root,,
+November 15 2023 11:59:48 PM,SSH Logout,root,,
+November 15 2023 11:59:48 PM,SSH Logout,root,,
+November 15 2023 11:59:48 PM,SSH Login Success,root,,ip-10-100-3-136
+November 15 2023 11:59:48 PM,SSH Logout,root,,
+November 15 2023 11:59:48 PM,SSH Login Success,ubuntu,,ip-10-101-3-237
+November 15 2023 11:59:48 PM,SSH Logout,root,,
+November 15 2023 11:59:48 PM,SSH Logout,ubuntu,,
+November 15 2023 11:59:48 PM,SSH Login Success,root,,emerge- managementserver
+November 15 2023 11:59:48 PM,SSH Login Success,root,,emerge- managementserver
+November 15 2023 11:59:48 PM,SSH Login Success,root,,localhost
+November 15 2023 11:59:48 PM,SSH Login Success,root,,localhost
+November 15 2023 11:59:48 PM,SSH Login Success,root,,emerge- managementserver
+November 15 2023 11:59:48 PM,SSH Login Success,root,,emerge- managementserver
+November 15 2023 11:59:48 PM,SSH Login Success,root,,emerge- managementserver
+November 15 2023 11:59:48 PM,SSH Logout,ubuntu,,
+November 15 2023 11:59:48 PM,SSH Login Success,root,,localhost
+November 15 2023 11:59:48 PM,SSH Login Success,ubuntu,,ip-10-100-3-136
+November 15 2023 11:59:48 PM,SSH Login Success,root,,ip-10-101-3-237
+November 15 2023 11:59:48 PM,SSH Login Success,root,,localhost
+November 15 2023 11:59:48 PM,SSH Login Success,ubuntu,,ip-10-101-3-237
+November 15 2023 11:59:48 PM,SSH Login Success,root,,localhost
+November 15 2023 11:59:48 PM,SSH Login Success,root,,ip-10-100-3-136
+November 15 2023 11:59:48 PM,SSH Login Success,root,,ip-10-100-1-191
+November 15 2023 11:59:48 PM,SSH Logout,root,,
+November 15 2023 11:59:48 PM,SSH Login Success,ubuntu,,ip-10-101-3-237
+November 15 2023 11:59:48 PM,SSH Login Success,root,,localhost
+November 15 2023 11:59:48 PM,SSH Login Success,root,,emerge- managementserver
+November 15 2023 11:59:48 PM,SSH Logout,root,,
+November 15 2023 11:59:48 PM,SSH Login Success,root,,emerge- managementserver
+November 15 2023 11:59:02 PM,SSH Login Success,root,,localhost
+November 15 2023 11:59:02 PM,SSH Login Success,root,,ms-app1-db
+November 15 2023 11:59:02 PM,SSH Logout,root,,
+November 15 2023 11:59:02 PM,SSH Login Success,root,,localhost
+November 15 2023 11:59:02 PM,SSH Logout,root,,
+November 15 2023 11:59:02 PM,SSH Login Success,root,,ms-app1-db
+November 15 2023 11:59:01 PM,SSH Login Success,root,,emergeapp24- oracle
+November 15 2023 11:59:01 PM,SSH Logout,root,,
+November 15 2023 11:59:01 PM,SSH Login Success,root,,emergeapp24- oracle
+November 15 2023 11:59:01 PM,SSH Logout,root,,
+November 15 2023 11:59:01 PM,SSH Logout,root,,
+November 15 2023 11:59:01 PM,SSH Login Success,root,,localhost
+November 15 2023 11:59:01 PM,SSH Logout,root,,
+November 15 2023 11:59:01 PM,SSH Logout,root,,
+November 15 2023 11:59:01 PM,SSH Login Success,root,,localhost
+November 15 2023 11:59:01 PM,SSH Login Success,root,,emergeapp24- oracle
+November 15 2023 11:59:01 PM,SSH Login Success,root,,emergeapp24- oracle
+November 15 2023 11:58:40 PM,SSH Login Success,root,,emerge-bangalore- vla
+November 15 2023 11:58:40 PM,SSH Login Success,root,,ip-10-101-3-237
+November 15 2023 11:58:40 PM,SSH Logout,root,,
+November 15 2023 11:58:40 PM,SSH Logout,ubuntu,,
+November 15 2023 11:58:40 PM,SSH Logout,root,,
+November 15 2023 11:58:40 PM,SSH Login Success,root,,ip-10-101-3-237
+November 15 2023 11:58:40 PM,SSH Login Success,ubuntu,,ip-10-101-3-237
+November 15 2023 11:58:40 PM,SSH Login Success,root,,ip-10-101-3-237
+November 15 2023 11:58:40 PM,SSH Logout,root,,
+November 15 2023 11:58:40 PM,SSH Logout,root,,
+November 15 2023 11:58:40 PM,SSH Login Success,root,,ip-10-100-1-191
+November 15 2023 11:58:40 PM,SSH Login Success,root,,ip-10-100-3-136
+November 15 2023 11:58:40 PM,SSH Logout,ubuntu,,
+November 15 2023 11:58:40 PM,SSH Logout,root,,
+November 15 2023 11:58:40 PM,SSH Login Success,ubuntu,,ip-10-100-3-136
+November 15 2023 11:58:40 PM,SSH Login Success,root,,ip-10-100-3-136
+November 15 2023 11:58:40 PM,SSH Logout,root,,
+November 15 2023 11:58:40 PM,SSH Login Success,root,,ip-10-100-1-191
+November 15 2023 11:58:40 PM,SSH Login Success,root,,ip-10-100-3-136
+November 15 2023 11:58:40 PM,SSH Login Success,ubuntu,,ip-10-100-3-136
+November 15 2023 11:58:40 PM,SSH Login Success,root,,ip-10-100-3-136
+November 15 2023 11:58:40 PM,SSH Login Success,root,,ip-10-101-3-237
+November 15 2023 11:58:40 PM,SSH Login Success,ubuntu,,ip-10-101-3-237
+November 15 2023 11:58:40 PM,SSH Login Success,root,,emerge-bangalore- vla
+November 15 2023 11:58:39 PM,SSH Logout,root,,
+November 15 2023 11:58:39 PM,SSH Logout,ubuntu,,
+November 15 2023 11:58:39 PM,SSH Login Success,ubuntu,,ip-10-101-3-237
+November 15 2023 11:58:39 PM,SSH Login Success,root,,management-vla
+November 15 2023 11:58:39 PM,SSH Login Success,root,,management-vla
+November 15 2023 11:58:39 PM,SSH Login Success,root,,emerge-bangalore- vla
+November 15 2023 11:58:39 PM,SSH Login Success,root,,emerge-bangalore- vla
+November 15 2023 11:58:39 PM,SSH Login Success,root,,emerge-bangalore- vla
+November 15 2023 11:58:39 PM,SSH Login Success,ubuntu,,ip-10-101-3-237
+November 15 2023 11:58:39 PM,SSH Login Success,ubuntu,,ip-10-101-3-237
+November 15 2023 11:58:39 PM,SSH Login Success,ubuntu,,ip-10-101-3-237
+November 15 2023 11:58:39 PM,SSH Login Success,root,,management-vla
+November 15 2023 11:58:39 PM,SSH Logout,root,,
+November 15 2023 11:58:39 PM,SSH Logout,root,,
+November 15 2023 11:58:39 PM,SSH Login Success,root,,emerge-bangalore- vla
+November 15 2023 11:58:39 PM,SSH Logout,root,,
+November 15 2023 11:58:39 PM,SSH Logout,root,,
+November 15 2023 11:58:39 PM,SSH Logout,ubuntu,,
+November 15 2023 11:58:39 PM,SSH Login Success,root,,management-vla
+November 15 2023 11:58:39 PM,SSH Login Success,root,,emerge-bangalore- vla
+November 15 2023 11:58:39 PM,SSH Login Success,root,,emerge-bangalore- vla
+November 15 2023 11:57:51 PM,SSH Login Success,root,,emerge-bangalore- vla
+November 15 2023 11:57:51 PM,SSH Login Success,root,,management- serverdb
+November 15 2023 11:57:51 PM,SSH Login Success,root,,emerge-bangalore- vla
+November 15 2023 11:57:51 PM,SSH Login Success,root,,emerge-bangalore- vla
+November 15 2023 11:57:51 PM,SSH Login Success,root,,management- serverdb
+November 15 2023 11:57:51 PM,SSH Login Success,root,,ip-10-101-1-34
+November 15 2023 11:57:51 PM,SSH Login Success,root,,emerge-bangalore- vla
+November 15 2023 11:57:51 PM,SSH Logout,root,,
+November 15 2023 11:57:51 PM,SSH Login Success,root,,management- serverdb
+November 15 2023 11:57:51 PM,SSH Logout,root,,
+November 15 2023 11:57:51 PM,SSH Logout,ubuntu,,
+November 15 2023 11:57:51 PM,SSH Logout,root,,
+November 15 2023 11:57:51 PM,SSH Logout,root,,
+November 15 2023 11:57:51 PM,SSH Login Success,root,,management- serverdb
+November 15 2023 11:57:51 PM,SSH Login Success,root,,ip-10-101-1-34
+November 15 2023 11:57:51 PM,SSH Logout,root,,
+November 15 2023 11:57:24 PM,SSH Login Success,root,,ip-10-101-3-237
+November 15 2023 11:57:24 PM,SSH Login Success,ubuntu,,ip-10-101-3-237
+November 15 2023 11:57:24 PM,SSH Login Success,ubuntu,,ip-10-101-3-237
+November 15 2023 11:57:24 PM,SSH Login Success,root,,ip-10-100-3-136
+November 15 2023 11:57:24 PM,SSH Login Success,ubuntu,,ip-10-100-3-136
+November 15 2023 11:57:24 PM,SSH Login Success,root,,ip-10-100-3-136
+November 15 2023 11:57:24 PM,SSH Login Success,root,,ip-10-100-1-191
+November 15 2023 11:57:24 PM,SSH Logout,root,,
+November 15 2023 11:57:24 PM,SSH Login Success,root,,ip-10-100-1-191
+November 15 2023 11:57:24 PM,SSH Logout,ubuntu,,
+November 15 2023 11:57:24 PM,SSH Login Success,root,,ip-10-101-3-237
+November 15 2023 11:57:24 PM,SSH Login Success,root,,ip-10-100-3-136
+November 15 2023 11:57:24 PM,SSH Login Success,ubuntu,,ip-10-100-3-136
+November 15 2023 11:57:24 PM,SSH Logout,root,,
+November 15 2023 11:57:24 PM,SSH Login Success,root,,ip-10-100-3-136
+November 15 2023 11:57:24 PM,SSH Logout,root,,
+November 15 2023 11:57:24 PM,SSH Login Success,ubuntu,,ip-10-101-3-237
+November 15 2023 11:57:24 PM,SSH Logout,root,,
+November 15 2023 11:57:24 PM,SSH Login Success,ubuntu,,ip-10-101-3-237
+November 15 2023 11:57:24 PM,SSH Logout,ubuntu,,
+November 15 2023 11:56:45 PM,SSH Logout,root,,
+November 15 2023 11:56:45 PM,SSH Login Success,root,,emerge- managementserver
+November 15 2023 11:56:45 PM,SSH Login Success,root,,emerge- managementserver
+November 15 2023 11:56:45 PM,SSH Login Success,root,,emerge- managementserver
+November 15 2023 11:56:45 PM,SSH Login Success,root,,emerge- managementserver
+November 15 2023 11:56:45 PM,SSH Logout,root,,
+November 15 2023 11:56:27 PM,SSH Logout,ubuntu,,
+November 15 2023 11:56:17 PM,SSH Login Success,root,,ip-10-100-3-136
+November 15 2023 11:56:17 PM,SSH Login Success,root,,ip-10-100-3-136
+November 15 2023 11:56:17 PM,SSH Login Success,ubuntu,,ip-10-100-3-136
+November 15 2023 11:56:17 PM,SSH Login Success,ubuntu,,ip-10-100-3-136
+November 15 2023 11:56:17 PM,SSH Login Success,root,,ip-10-100-3-136
+November 15 2023 11:56:17 PM,SSH Login Success,root,,ip-10-100-3-136
+November 15 2023 11:56:17 PM,SSH Login Success,root,,ip-10-100-3-136
+November 15 2023 11:56:17 PM,SSH Login Success,root,,ip-10-100-1-191
+November 15 2023 11:56:07 PM,SSH Login Success,ubuntu,,ip-10-100-3-136
+November 15 2023 11:56:07 PM,SSH Login Success,root,,ip-172-31-20-197
+November 15 2023 11:56:07 PM,SSH Login Success,ubuntu,,ip-10-101-3-237
+November 15 2023 11:56:07 PM,SSH Login Success,ubuntu,,ip-10-101-3-237
+November 15 2023 11:56:07 PM,SSH Login Success,root,,ip-10-101-3-237
+November 15 2023 11:56:07 PM,SSH Login Success,root,,emergeapp24- oracle
+November 15 2023 11:56:07 PM,SSH Login Success,root,,emergeapp24- oracle
+November 15 2023 11:55:14 PM,SSH Login Success,root,,ip-10-100-1-191
+November 15 2023 11:54:57 PM,SSH Login Success,ubuntu,,ip-10-100-3-136
+November 15 2023 11:54:57 PM,SSH Login Success,ubuntu,,ip-10-101-3-237
+November 15 2023 11:54:57 PM,SSH Login Success,root,,ip-10-100-3-136
+November 15 2023 11:54:57 PM,SSH Login Success,root,,ip-10-101-3-237
+November 15 2023 11:54:57 PM,SSH Login Success,ubuntu,,ip-10-101-3-237
+November 15 2023 11:54:57 PM,SSH Login Success,root,,ip-10-100-3-136
+November 15 2023 11:54:32 PM,SSH Login Success,root,,localhost
+November 15 2023 11:54:32 PM,SSH Login Success,root,,localhost
+November 15 2023 11:54:32 PM,SSH Login Success,root,,localhost
+November 15 2023 11:54:32 PM,SSH Login Success,root,,localhost
+November 15 2023 11:53:57 PM,SSH Login Success,ubuntu,,ip-10-101-3-237
+November 15 2023 11:53:54 PM,SSH Login Success,root,,ip-10-100-1-191
+November 15 2023 11:53:54 PM,SSH Login Success,root,,ip-10-100-1-191
+November 15 2023 11:53:51 PM,SSH Login Success,root,,ip-10-100-3-136
+November 15 2023 11:53:51 PM,SSH Login Success,root,,ip-10-100-3-136
+November 15 2023 11:53:51 PM,SSH Login Success,ubuntu,,ip-10-100-3-136
+November 15 2023 11:53:50 PM,SSH Login Success,ubuntu,,ip-10-101-3-237
+November 15 2023 11:53:50 PM,SSH Login Success,root,,ip-10-101-3-237
+November 15 2023 11:50:55 PM,SSH Login Success,root,,management-vla
+November 15 2023 11:50:55 PM,SSH Login Success,root,,emerge- managementserver
+November 15 2023 11:50:55 PM,SSH Login Success,root,,emerge- managementserver
+November 15 2023 11:50:55 PM,SSH Login Success,root,,emerge- managementserver
+November 15 2023 11:50:55 PM,SSH Login Success,root,,emerge- managementserver
+November 15 2023 11:50:55 PM,SSH Login Success,root,,management-vla
+November 15 2023 11:50:55 PM,SSH Login Success,root,,management-vla
+November 15 2023 11:50:55 PM,SSH Login Success,root,,management-vla
+November 15 2023 11:50:17 PM,SSH Login Success,root,,emergeapp24- oracle
+November 15 2023 11:50:17 PM,SSH Login Success,ubuntu,,ip-10-101-3-237
+November 15 2023 11:50:17 PM,SSH Login Success,root,,localhost
+November 15 2023 11:50:17 PM,SSH Login Success,root,,localhost
+November 15 2023 11:50:17 PM,SSH Login Success,ubuntu,,ip-10-101-3-237
+November 15 2023 11:50:17 PM,SSH Login Success,root,,ip-10-101-3-237
+November 15 2023 11:50:17 PM,SSH Login Success,root,,localhost
+November 15 2023 11:50:17 PM,SSH Login Success,root,,ip-10-100-1-191
+November 15 2023 11:50:17 PM,SSH Login Success,root,,ip-10-100-3-136
